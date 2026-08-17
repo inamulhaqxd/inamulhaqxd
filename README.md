@@ -42,22 +42,4 @@ AI/ML Engineer with hands-on experience in machine learning, deep learning, and 
 | **Stock Price Prediction (Google)** | Time series forecasting for Google stock prices |
 | **Email Spam Detection** | NLP-based spam classification system |
 
----
 
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inamulhaqxd&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=inamulhaqxd&layout=compact&theme=radical)
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=inamulhaqxd&color=blueviolet&style=flat)
-
-</div>
